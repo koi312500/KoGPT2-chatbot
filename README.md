@@ -1,8 +1,13 @@
+# koi312500/KoGPT2-chatbot
 
+이 Repository는 Koi_Bot_Discord에서 KoGPT2를 사용하기 위해 koi312500이 수정한 코드가 포함되어 있습니다.
 
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+Koi_Bot 개발 중단
+ - Discord.py의 개발 중단으로 인한 프로젝트 지속 불가능
+ - 2022/4 이후 Slash Command만 가능하게 되는 경우 모든 코드의 변경이 필요함
+ - 다음의 이유로 인해 Koi_Bot의 개발 중단을 알려드립니다.
 
-<!-- code_chunk_output -->
+코이봇의 개발중단으로 인해 koi312500/KoGPT2-chatbot 또한 Archive 처리합니다.
 
 - [Simple Chit-Chat based on KoGPT2](#simple-chit-chat-based-on-kogpt2)
   - [Purpose](#purpose)
